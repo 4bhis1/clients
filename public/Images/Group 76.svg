@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="474" height="40" viewBox="0 0 474 40">
+  <defs>
+    <filter id="Rectangle_39" x="0" y="0" width="474" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_76" data-name="Group 76" transform="translate(-68.5 -109.64)">
+    <g transform="matrix(1, 0, 0, 1, 68.5, 109.64)" filter="url(#Rectangle_39)">
+      <rect id="Rectangle_39-2" data-name="Rectangle 39" width="465" height="31" transform="translate(2.5 2.5)" fill="#f1f7f9"/>
+    </g>
+    <text id="April_2021" data-name="April 2021" transform="translate(80 120.14)" fill="#112949" font-size="16" font-family="LouisGeorgeCafe, Louis George Café"><tspan x="0" y="16">April 2021</tspan></text>
+    <path id="Icon_awesome-angle-down" data-name="Icon awesome-angle-down" d="M5.01,17.734.244,12.967a.838.838,0,0,1,0-1.188l.792-.792a.838.838,0,0,1,1.188,0L5.6,14.366l3.378-3.378a.838.838,0,0,1,1.188,0l.792.792a.838.838,0,0,1,0,1.188L6.194,17.734A.833.833,0,0,1,5.01,17.734Z" transform="translate(508.792 115.31)" fill="#3d3d3d"/>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+
+.company-card {
+    box-shadow: 2px 2px 3px #00000029;
+    border-radius: 8px;
+    opacity: 1;
+    padding: 8px;
+    margin: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 16px;
+    color : "black"
+}
+
+.company-card-active  {
+    background: #112949 0% 0% no-repeat padding-box;
+    color :white
+
+}
+
+.copanyNameSection{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.companyName {
+    letter-spacing: 0px;
+    opacity: 1;
+    
+}
+
+.companyName-active {
+    color: #9CBDEB;
+    letter-spacing: 0px;
+}
+
+.userSection {
+    /* margin-top: 8px; */
+    display: flex;
+    justify-content: space-between;
+}

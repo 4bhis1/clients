@@ -1,0 +1,87 @@
+.main-left-section {
+    width: 25vw;
+    height: 100vh;
+    /* background-color: aquamarine; */
+    box-shadow: 0px 1px 6px #00000029;
+opacity: 1;
+overflow: hidden;
+}
+
+.main-left-section-head{
+    padding: 16px 8px 8px 8px;  
+
+}
+
+.Clients {
+    font-size: 36px;
+}
+
+.client {
+    display: flex;
+    justify-content: space-between;
+}
+
+.client-creation-time {
+    display: flex;
+    flex: 1;
+}
+
+.searchSection {
+    display: flex;
+    margin-top: 8px;
+
+    background: transparent  0% 0% no-repeat padding-box;
+opacity: 1;
+
+border-width: 1px;
+border-style: solid;
+border-color: black;
+padding: 2px 4px;
+border-radius: 4px;
+
+
+}
+
+.search {
+    flex: 1;
+    border-width: 0;
+}
+
+.ComapnyCardDiv{
+overflow-y: scroll;
+}
+
+input {
+    font-size: 12px;
+}
+
+input:focus{
+    outline: none;
+}
+
+.creationTime {
+    display: flex;
+    flex: 1;
+    background: url("../../public//Images/creationTime.png") no-repeat;
+    margin-top: 12px;
+}
+
+
+.AddButton {
+    background: url("../../public//Images/add.png") no-repeat;
+    height: 34px;
+    width: 34px;
+}
+
+.searchButton{
+    background: url("../../public//Images/search.png") no-repeat;
+    height: 25px;
+    width: 25px;   
+}
+
+.Selection {
+    background: url("../../public//Images/Group\ 76.svg");
+    display: flex;
+    flex: 1;
+    height: 40px;
+}
